@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbryan189
-- 👀 I’m interested in everything! Mostly PLC.Pi stuff
+- 👀 I’m interested in everything! Mostly PLC & HMI/Pi stuff
 - 🌱 I’m currently learning Pythion
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Meassge me here.
